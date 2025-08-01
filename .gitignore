@@ -1,0 +1,55 @@
+# Visual Studio directories
+.vs/
+.vscode/
+
+# Build directories
+Debug/
+Release/
+x64/
+x86/
+out/
+build/
+
+# Visual Studio project files (if you want to ignore them)
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.dll
+*.so
+*.dylib
+
+# Debug files
+*.pdb
+*.ilk
+*.exp
+
+# Cache and temporary files
+*.tmp
+*.temp
+*.cache
+*.log
+
+# CMake (if you use it later)
+CMakeCache.txt
+CMakeFiles/
+Cmake*/
+
+# Other common files
+.DS_Store
+Thumbs.db
